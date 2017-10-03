@@ -1,0 +1,21 @@
+hunterskill:key:reloadconfig=114     |     [default:114]          Key-id to reload CFG. See ids here: www.cherrytree.at/misc/vk.htm
+hunterskill:key:turn=46              |     [default:46]           Key-id to turn ON/OFF all cheat-functions
+hunterskill:key:exit=35              |     [default:35]           Key-id to turn OFF all functions and close cheat
+bunnyhop:enabled=1                   |     [0/1:default:1]        is bunnyhop enabled
+bunnyhop:key:use=32                  |     [default:164]          Key-id for using bunnyhop
+ceiling:enabled=1                    |     [0/1:default:1]        is ceiling enabled
+ceiling:key:use=20                   |     [default:20]           Key-id for using ceiling
+ceiling:clickpause:ms=50             |     [default:50]           Some pause between ceiling auto-clicks in milliseconds
+
+
+
+*********************************************
+*___________________________________________*
+*_______HunterSkill Left4Dead by aXe________*
+*______InstantHook Configuration File_______*
+*__________Awakening Pulse L4D-Team_________*
+*______Engine, aXe, Modest, KpuoH, Bruce____*
+*__________Best Momories 2013-2016__________*
+*___________________________________________*
+*********************************************
+

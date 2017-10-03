@@ -1,0 +1,65 @@
+hunterskill:key:reloadconfig=114     |     [default:114]          Key-id to reload CFG. See ids here: www.cherrytree.at/misc/vk.htm
+hunterskill:key:turn=46              |     [default:46]           Key-id to turn ON/OFF all cheat-functions
+hunterskill:key:exit=35              |     [default:35]           Key-id to turn OFF all functions and close cheat
+fullbright:enabled=1                 |     [0/1:default:1]        is fullbright enabled
+nosmoke:enabled=0                    |     [0/1:default:0]        is nosmoke enabled
+nofog:enabled=1                      |     [0/1:default:0]        is nofog enabled
+glowhack:enabled=0                   |     [0/1:default:0]        is glowhack enabled
+incapnorecoil:enabled=0              |     [0/1:default:1]        is incapnorecoil enabled
+norecoil:enabled=0                   |     [0/1:default:0]        is norecoil enabled
+esp:enabled=1                        |     [0/1:default:0]        is esp enabled
+esp:border=2                         |     [1/5:default:2]        esp border thickness
+esp:color:smoker:ghost:R=255         |     [0/255:default:255]    esp color smoker as ghost (RED)
+esp:color:smoker:ghost:G=255         |     [0/255:default:255]    esp color smoker as ghost (GREEN)
+esp:color:smoker:ghost:B=0           |     [0/255:default:0]      esp color smoker as ghost (BLUE)
+esp:color:smoker:spawned:R=0         |     [0/255:default:0]      esp color smoker as spawned (RED)
+esp:color:smoker:spawned:G=255       |     [0/255:default:255]    esp color smoker as spawned (GREEN)
+esp:color:smoker:spawned:B=0         |     [0/255:default:0]      esp color smoker as spawned (BLUE)
+esp:color:boomer:ghost:R=255         |     [0/255:default:255]    esp color boomer as ghost (RED)
+esp:color:boomer:ghost:G=153         |     [0/255:default:153]    esp color boomer as ghost (GREEN)
+esp:color:boomer:ghost:B=153         |     [0/255:default:153]    esp color boomer as ghost (BLUE)
+esp:color:boomer:spawned:R=153       |     [0/255:default:153]    esp color boomer as spawned (RED)
+esp:color:boomer:spawned:G=0         |     [0/255:default:0]      esp color boomer as spawned (GREEN)
+esp:color:boomer:spawned:B=102       |     [0/255:default:102]    esp color boomer as spawned (BLUE)
+esp:color:hunter:ghost:R=0           |     [0/255:default:0]      esp color hunter as ghost (RED)
+esp:color:hunter:ghost:G=255         |     [0/255:default:255]    esp color hunter as ghost (GREEN)
+esp:color:hunter:ghost:B=255         |     [0/255:default:255]    esp color hunter as ghost (BLUE)
+esp:color:hunter:spawned:R=255       |     [0/255:default:255]    esp color hunter as spawned (RED)
+esp:color:hunter:spawned:G=0         |     [0/255:default:0]      esp color hunter as spawned (GREEN)
+esp:color:hunter:spawned:B=0         |     [0/255:default:0]      esp color hunter as spawned (BLUE)
+esp:color:tank:ghost:R=0             |     [0/255:default:0]      esp color tank as ghost (RED)
+esp:color:tank:ghost:G=0             |     [0/255:default:0]      esp color tank as ghost (GREEN)
+esp:color:tank:ghost:B=0             |     [0/255:default:0]      esp color tank as ghost (BLUE)
+esp:color:tank:spawned:R=255         |     [0/255:default:255]    esp color tank as spawned (RED)
+esp:color:tank:spawned:G=127         |     [0/255:default:127]    esp color tank as spawned (GREEN)
+esp:color:tank:spawned:B=0           |     [0/255:default:0]      esp color tank as spawned (BLUE)
+esp:color:text:R=0                   |     [0/255:default:0]      esp color text (RED)
+esp:color:text:G=255                 |     [0/255:default:255]    esp color text (GREEN)
+esp:color:text:B=255                 |     [0/255:default:255]    esp color text (BLUE)
+aimbot:enabled=0                     |     [0/1:default:0]        is aimbot enabled
+aimbot:key:use=160                   |     [default:160]          Key-id for using aimbot
+aimbot:angle=9                       |     [1/180:default:20]     FOV for aimbot
+aimbot:smooth=2                      |     [0/100:default:2]      smoothing value
+aimbot:range=800                   |     [1/50000:default:500]  ingame range for aimbot
+aimbot:bonenum=11                    |     [0/52:default:11]      the number of bone to aim
+aimbot:autoshoot=1                   |     [0/1:default:1]        is autoshooting enabled
+aimbot:automouse2=1                  |     [0/1:default:1]        is auto M2 button enabled
+aimbot:type=0                        |     [0/1:default:1]        type aimbot(SKIN/HITBOX)
+bunnyhop:enabled=1                   |     [0/1:default:1]        is bunnyhop enabled
+bunnyhop:key:use=32                  |     [default:164]          Key-id for using bunnyhop
+ceiling:enabled=1                    |     [0/1:default:1]        is ceiling enabled
+ceiling:key:use=20                   |     [default:20]           Key-id for using ceiling
+ceiling:clickpause:ms=50             |     [default:50]           Some pause between ceiling auto-clicks in milliseconds
+
+
+
+*********************************************
+*___________________________________________*
+*_______HunterSkill Left4Dead by aXe________*
+*______InstantHook Configuration File_______*
+*__________Awakening Pulse L4D-Team_________*
+*______Engine, aXe, Modest, KpuoH, Bruce____*
+*__________Best Momories 2013-2016__________*
+*___________________________________________*
+*********************************************
+
