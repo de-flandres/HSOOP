@@ -33,6 +33,7 @@
 
 #Hyunya
 *.ipdb
+*.pdb
 *.iobj
 *.exp
 *.VC.db
